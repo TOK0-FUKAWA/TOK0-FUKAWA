@@ -8,7 +8,7 @@ Wippwp
 
 ![Image](https://i.postimg.cc/0jG79ynB/16.gif) ![Image](https://i.postimg.cc/Y2QPvNyJ/95.webp) ![image](https://i.postimg.cc/KY4VjddN/101.gif) ![image](https://github.com/user-attachments/assets/bc8fb726-f678-4a00-879b-0b9966b1d04a) ![image](https://github.com/user-attachments/assets/366fcb22-c447-4b3e-a876-250cfc9ed209) ![image](https://github.com/user-attachments/assets/41b390a8-0caf-4ab8-b8b2-83f392d1e16e)
 
-.co/lavender - creds
+.co/lavender-buttons :  creds
 
 
 
