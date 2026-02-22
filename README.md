@@ -11,9 +11,9 @@
 
 <div align="center">
 
-<img width="99" height="57" alt="image" src="https://github.com/user-attachments/assets/02973a7a-cbe8-4a68-87f7-2f4934af940d" />  
+<img width="99" height="57" alt="image" src="https://github.com/user-attachments/assets/02973a7a-cbe8-4a68-87f7-2f4934af940d" />  &nbsp;
 
-&nbsp;[stamp / blinkies collection !](https://github.com/TOKO-FUKAWAA/collectionn)
+[stamps / blinkies collection !](https://github.com/TOKO-FUKAWAA/collectionn)
 
 
 
