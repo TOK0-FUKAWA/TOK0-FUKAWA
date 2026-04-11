@@ -8,7 +8,7 @@
 [atab](https://empool.atabook.org)&nbsp;𓏵
 [main](https://github.com/ghostly-sorrows)
 
-<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/02973a7a-cbe8-4a68-87f7-2f4934af940d" />  &nbsp;
+<img width="149" height="180" alt="image" src="https://github.com/user-attachments/assets/02973a7a-cbe8-4a68-87f7-2f4934af940d" />  &nbsp;
 
 
 
