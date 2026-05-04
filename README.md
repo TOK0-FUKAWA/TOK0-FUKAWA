@@ -2,8 +2,7 @@
 <div align="center">
 <img width="500" height="500" alt="image" src=https://i.pinimg.com/736x/8c/96/19/8c96194dcdcfddfaee31902ea6ce13f3.jpg />
 
-[atab](https://empool.atabook.org)&nbsp;× 
-[main](https://github.com/ghostly-sorrows)
+
 
 
 
